@@ -1,0 +1,1 @@
+C:\Users\DSE\Documents\Visual Studio 2015\Projects\FluDetect\FluDetect\FluDetect.Droid\obj\Debug\FluDetect.Droid.csprojResolveAssemblyReference.cache

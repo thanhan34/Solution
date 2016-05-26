@@ -1,0 +1,14 @@
+C:\Users\DSE\Documents\Visual Studio 2015\Projects\FluDetect\FluDetect\FluDetect\bin\Debug\FluDetect.dll
+C:\Users\DSE\Documents\Visual Studio 2015\Projects\FluDetect\FluDetect\FluDetect\bin\Debug\FluDetect.pdb
+C:\Users\DSE\Documents\Visual Studio 2015\Projects\FluDetect\FluDetect\FluDetect\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\DSE\Documents\Visual Studio 2015\Projects\FluDetect\FluDetect\FluDetect\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\DSE\Documents\Visual Studio 2015\Projects\FluDetect\FluDetect\FluDetect\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\DSE\Documents\Visual Studio 2015\Projects\FluDetect\FluDetect\FluDetect\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\DSE\Documents\Visual Studio 2015\Projects\FluDetect\FluDetect\FluDetect\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\DSE\Documents\Visual Studio 2015\Projects\FluDetect\FluDetect\FluDetect\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\DSE\Documents\Visual Studio 2015\Projects\FluDetect\FluDetect\FluDetect\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\DSE\Documents\Visual Studio 2015\Projects\FluDetect\FluDetect\FluDetect\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\DSE\Documents\Visual Studio 2015\Projects\FluDetect\FluDetect\FluDetect\obj\Debug\FluDetect.csprojResolveAssemblyReference.cache
+C:\Users\DSE\Documents\Visual Studio 2015\Projects\FluDetect\FluDetect\FluDetect\obj\Debug\FluDetect.View.MakingAppointment.xaml.g.cs
+C:\Users\DSE\Documents\Visual Studio 2015\Projects\FluDetect\FluDetect\FluDetect\obj\Debug\FluDetect.dll
+C:\Users\DSE\Documents\Visual Studio 2015\Projects\FluDetect\FluDetect\FluDetect\obj\Debug\FluDetect.pdb
